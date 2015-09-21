@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MonTransit RTCS Bus (Shawinigan)</string>
+    <string name="app_desc">Données des autobus de RTCS à Shawinigan pour MonTransit.</string>
+</resources>
