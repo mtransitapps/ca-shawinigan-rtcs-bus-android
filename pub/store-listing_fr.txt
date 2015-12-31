@@ -5,12 +5,12 @@ Autobus RTCS de Shawinigan pour MonTransit.
 Horaires…
 ----------
 What's new in this version?:
-Horaires du 24 août 2015 au 31 décembre 2015.
+Horaires du 3 janvier 2016 au 23 mai 2016.
 ----------
 Full description:
 Cette application ajoute les informations des autobus RTCS de Shawinigan à MonTransit.
 
-L'app contient les horaires plannifiées.
+L'app contient les horaires planifiés.
 
 Les autobus du RTCS desservent Shawinigan au Québec, Canada.
 
@@ -27,3 +27,4 @@ Cette application est gratuite et open-source :
 https://github.com/mtransitapps/ca-shawinigan-rtcs-bus-android
 
 Cette application n'est pas associée à la Régie de Transport en Commun de Shawinigan (RTCS) et la Ville de Shawinigan.
+----------
