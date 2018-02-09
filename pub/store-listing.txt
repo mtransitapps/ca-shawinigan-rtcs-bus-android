@@ -5,7 +5,7 @@ Shawinigan RTCS Bus for MonTransit.
 Schedule…
 ----------
 What's new in this version?:
-Schedule from January 3, 2018 to May 21, 2018.
+Schedule from January 3, 2018 to May 20, 2018.
 ----------
 Full description:
 This app adds Shawinigan RTCS buses information to MonTransit.
