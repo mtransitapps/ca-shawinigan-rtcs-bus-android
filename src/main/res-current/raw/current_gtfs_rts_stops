@@ -194,46 +194,10 @@
 201,'','Av. Des Cedres / 5e Rue De La Pointe',46.5409105,-72.74627089
 202,'','Av. Des Cedres / 4e Rue De La Pointe',46.54004204,-72.74617733
 203,'','4e Rue De La Pointe / Av. Mercier',46.5399422,-72.74813222
-204,'','4023 Boul. Des Hetres',46.56721908,-72.73585517
-205,'','Boul. Des Hetres / 36e Rue',46.56556537,-72.73842878
-206,'','Boul. Des Hetres / Rue Bellevue',46.56381432,-72.74103742
-207,'','Rue Bellevue / Av. La Salle',46.56444006,-72.74216199
-208,'','Rue Bellevue / Av. Beaudry-Leman',46.5656575,-72.74381856
-209,'','Av. Masson (Pres De Rue Bellevue)',46.56942114,-72.74981697
-210,'','CEGEP',46.56353032,-72.75226155
-211,'','Av. Du College / Rue Lavergne',46.56674783,-72.75039445
-212,'','Rue Lavergne / Av. Beaudry-Leman',46.56411909,-72.74682003
-213,'','Rue Lavergne / Av. La Salle',46.56297652,-72.74521374
-214,'','Rue Lavergne / Boul. Des Hetres',46.56187693,-72.74372205
-215,'','Rue Gigaire / Av. St-Alexis',46.5611474,-72.74345478
-216,'','Rue Gigaire / Boul. Royal',46.55969048,-72.74148317
-217,'','Boul. Royal / Rue Frigon',46.55901801,-72.74246516
-218,'','Boul. Royal / Rue St-Joseph',46.55773042,-72.74445074
-219,'','Boul. Royal / Rue St-Paul',46.55690636,-72.74563982
-220,'','Boul. Royal / Rue Cartier',46.55608161,-72.74691356
 221,'','1265 Rue Trudel (Ancien CLSC)',46.55462831,-72.74740064
-222,'','Rue Trudel (Avant Av. Georges)',46.5537955,-72.74619181
-223,'','Rue Trudel / Av. Champlain',46.55307487,-72.74521029
-224,'','Rue Trudel (Pres Av. St-Marc)',46.55268963,-72.74436879
-225,'','Rue Trudel / Av. Georges',46.55353072,-72.74549022
 226,'','Rue Trudel / Boul. Royal',46.55517042,-72.74777747
 227,'','Boul. Royal / Rue Cartier',46.55579484,-72.74694637
 228,'','Boul. Royal / Rue St-Paul',46.55661903,-72.74566605
-229,'','Boul. Royal / Rue St-Joseph',46.55740319,-72.74446333
-230,'','Rue Dufresne / Boul. Royal',46.55894261,-72.74322033
-231,'','Rue Dufresne / Av. Coutu',46.5596169,-72.74413379
-232,'','Boul. Royal (Face Rue St-Jacques)',46.56066904,-72.74494034
-233,'','Rue Lavergne (Pres Boul. Des Hetres)',46.56214042,-72.7437867
-234,'','Rue Lavergne / Av. La Salle',46.56293001,-72.74484995
-235,'','Rue Lavergne / Av. Beaudry-Leman',46.56406487,-72.7463864
-236,'','Rue Lavergne / Av. Du College',46.56685168,-72.75015731
-237,'','Av. Masson / Rue Bellevue',46.5694862,-72.74939991
-238,'','Rue Bellevue / Av. Beaudry-Leman',46.56575102,-72.7443002
-239,'','Rue Bellevue / Av. La Salle',46.56456593,-72.74265825
-240,'','Rue Bellevue / Boul. Des Hetres',46.56360698,-72.74134931
-241,'','Face Rue Aldred (Sur Boul. Des Hetres)',46.56387252,-72.74064092
-242,'','3562 Boul. Des Hetres',46.5654173,-72.73830698
-243,'','Boul. Des Hetres (Pres 41e Rue)',46.56702621,-72.73579844
 244,'','110e Rue / 106e Av.',46.52453802,-72.75356705
 245,'','110e Rue / 110e Av.',46.52308273,-72.75569709
 246,'','109e Rue / 111e Av.',46.52231384,-72.75628818
@@ -254,22 +218,15 @@
 261,'','4655 Boul. De Shawinigan-Sud (Club Piscine)',46.49576903,-72.71704133
 262,'','204e Av. / Av. De St-Georges (Depanneur NORDEC)',46.62149776,-72.66543831
 263,'','Av. De Grand-Mere (Face A 26e Rue)',46.60252912,-72.70964825
-266,'','Walmart',46.554105,-72.74870153
 267,'','Marche Public',46.55432178,-72.74316597
 268,'','Av. Des Cedres / Av. De La Transmission',46.5473738,-72.74636327
-269,'','109e Rue / Rue Antoinette-J-Goulet',46.52029687,-72.75661049
 270,'','Boul. Des Hetres (Face A 79e Rue)',46.58396043,-72.71611078
-271,'','Av. Du College / Rue Lavergne',46.56686316,-72.75055852
 272,'','Av. Des Cedres / 9e Rue De La Pointe',46.54348827,-72.74649618
 273,'','3850 105e Av.',46.50934308,-72.73259473
-274,'','110e Rue / 108e Av.',46.52374043,-72.75476956
 275,'','Boul. De Shawinigan-Sud (Devant Societe Laurentides)',46.4952133,-72.71664094
 276,'','Garderie La Bottine Souriante Centre Fiscal',46.49393997,-72.71372326
 277,'','Face A Roma - Boul. De Shawinigan-Sud',46.49769201,-72.71969498
 278,'','Amphitheatre Municipal (Entree/Sortie Du Stat)',46.54660642,-72.74576088
-279,'','Walmart',46.55416918,-72.7487348
-280,'','CEGEP',46.56353032,-72.75226155
-281,'','Boul. Des Hetres / 38e Rue',46.56617139,-72.73710668
 282,'','5e Av. / 8e Rue',46.61200782,-72.6939899
 283,'','Rue St-Paul / Av. Georges',46.55505968,-72.74327231
 284,'','Rue St-Paul / Boul. Royal',46.55673076,-72.74551344
