@@ -1,23 +1,23 @@
-0,'','Boul De Shawinigan-Sud / Rue Valentine Pintal',46.49866423,-72.72128775
-1,'','4455 Boul De Shawinigan-Sud / Rue Du Parc-Industriel',46.50028894,-72.72365866
-2,'','Boul De Shawinigan-Sud (Face Au Rang St-Michel)',46.50133843,-72.7252101
-3,'','Boul De Shawinigan-Sud / Rue Arthur-Dery',46.50312277,-72.72782986
-4,'','4175 Boul De Shawinigan-Sud (Metro)',46.50415734,-72.72934026
+0,'','Shawinigan-S / Valentine Pintal',46.49866423,-72.72128775
+1,'','4455 Boul De Shawinigan-S / Parc-Industriel',46.50028894,-72.72365866
+2,'','Shawinigan-S (Face Au Rang St-Michel)',46.50133843,-72.7252101
+3,'','Shawinigan-S / Arthur-Dery',46.50312277,-72.72782986
+4,'','4175 Boul De Shawinigan-S (Metro)',46.50415734,-72.72934026
 5,'','3975 105e Av',46.50609445,-72.73115145
-6,'','105e Av / Rue Jos-Denoncourt',46.50800239,-72.73176948
+6,'','105e Av / Jos-Denoncourt',46.50800239,-72.73176948
 7,'','3855 105e Av',46.50938378,-72.73227351
 8,'','105e Av / 138e Rue',46.51082833,-72.73277151
 9,'','105e Av / 136e Rue',46.51252292,-72.73441341
 10,'','105e Av / 134e Rue',46.51355789,-72.7359438
 11,'','105e Av / 132e Rue',46.51469067,-72.7376151
-12,'','2845 105e Av (Entre Boul De Shawinigan-Sud & 129e Rue)',46.51677926,-72.74062061
+12,'','2845 105e Av (Entre Boul De Shawinigan-S & 129e Rue)',46.51677926,-72.74062061
 13,'','2675 105e Av (Dollorama)',46.5176989,-72.74194157
 14,'','445 125e Rue (Pres 105e Av)',46.51899497,-72.74294829
 15,'','125e Rue / 103e Av',46.51971334,-72.74190294
 16,'','125e Rue / 101e Av',46.52113663,-72.73980798
-17,'','125e Rue / Av Loranger',46.52193762,-72.73863599
-18,'','Av Du Capitaine-Veilleux / Rue Pruneau',46.52338145,-72.73785949
-19,'','Av Du Capitaine-Veilleux / Rue Lacoursiere',46.52543492,-72.74075374
+17,'','125e Rue / Loranger',46.52193762,-72.73863599
+18,'','Capitaine-Veilleux / Pruneau',46.52338145,-72.73785949
+19,'','Capitaine-Veilleux / Lacoursiere',46.52543492,-72.74075374
 20,'','CSSS (Entree Principale)',46.52603051,-72.74434471
 21,'','CSSS (Urgence)',46.52498219,-72.74437208
 22,'','119e Rue / 101e Av',46.52344626,-72.74402856
@@ -27,55 +27,55 @@
 26,'','105e Av / 115e Rue',46.52289823,-72.74933599
 27,'','105e Av / 113e Rue',46.52378637,-72.75060986
 28,'','105e Av / 109e Rue',46.52554982,-72.75317164
-29,'','Rue Du Marie-Louise / Rue Nadeau',46.52619238,-72.75830384
-30,'','Av Melville (Cote Camping)',46.53519541,-72.75545473
-31,'','Av De La Ston / 4e Rue De La Pointe',46.53945904,-72.75168136
-32,'','4e Rue De La Pointe / Av Tamarac',46.54035307,-72.75057266
-33,'','4e Rue De La Pointe / Av Mercier',46.54049607,-72.74853344
-34,'','4e Rue De La Pointe / Av Des Cedres',46.54059337,-72.7465557
-35,'','Av Des Cedres (Devant Hotel De Ville)',46.54110934,-72.74602726
-36,'','Av Des Cedres / 7e Rue De La Pointe',46.54224997,-72.74612851
-37,'','Av Des Cedres / 9e Rue De La Pointe',46.54351512,-72.74623706
-38,'','Av Des Cedres / 11e Rue De La Pointe',46.54477394,-72.74578701
+29,'','Marie-Louise / Nadeau',46.52619238,-72.75830384
+30,'','Melville (Cote Camping)',46.53519541,-72.75545473
+31,'','Ston / 4e Rue De La Pte',46.53945904,-72.75168136
+32,'','4e Rue De La Pte / Tamarac',46.54035307,-72.75057266
+33,'','4e Rue De La Pte / Mercier',46.54049607,-72.74853344
+34,'','4e Rue De La Pte / Cedres',46.54059337,-72.7465557
+35,'','Cedres (Hotel De Ville)',46.54110934,-72.74602726
+36,'','Cedres / 7e Rue De La Pte',46.54224997,-72.74612851
+37,'','Cedres / 9e Rue De La Pte',46.54351512,-72.74623706
+38,'','Cedres / 11e Rue De La Pte',46.54477394,-72.74578701
 39,'','1412 Av St-Marc',46.54992759,-72.74660489
 40,'','1672 Av St-Marc (Pres Rue Vincent)',46.5515615,-72.74491059
 41,'','1882 Av St-Marc (Pres Rue Montcalm)',46.55268322,-72.74369512
-42,'','Av St-Marc / Rue St-Paul',46.55383908,-72.74201742
+42,'','St-Marc / St-Paul',46.55383908,-72.74201742
 43,'','2268 Av St-Marc (Pres Rue Lambert)',46.55492972,-72.74030517
-44,'','Rue Frigon / Av Champlain',46.55670878,-72.73886462
-45,'','Rue Frigon / Av Georges',46.55719228,-72.73949542
-46,'','Rue Frigon / Av Papineau',46.55812151,-72.74075719
-47,'','Rue Frigon / Boul Royal',46.559014,-72.74198563
-48,'','Boul Royal / Rue Notre-Dame',46.5600089,-72.74058504
+44,'','Frigon / Champlain',46.55670878,-72.73886462
+45,'','Frigon / Georges',46.55719228,-72.73949542
+46,'','Frigon / Papineau',46.55812151,-72.74075719
+47,'','Frigon / Royal',46.559014,-72.74198563
+48,'','Royal / Notre-Dame',46.5600089,-72.74058504
 49,'','Plaza',46.56289572,-72.73833391
 50,'','3832 Boul Royal (Entre 38e & 40e Rue)',46.56441176,-72.73392282
 51,'','41e Rue (Face Dollorama)',46.56587539,-72.73323939
-52,'','41e Rue / Boul Des Hetres',46.56719827,-72.73486165
-53,'','43e Rue / Boul Des Hetres',46.56830378,-72.73472611
-54,'','43e Rue / Av Bonaventure',46.56899383,-72.73569781
-55,'','43e Rue / Av Ste-Marthe',46.57109869,-72.73854132
-56,'','Av Ste-Marthe / 45e Rue',46.57210957,-72.73707868
-57,'','Av Ste-Marthe / 49e Rue',46.57326439,-72.73529293
+52,'','41e Rue / Hetres',46.56719827,-72.73486165
+53,'','43e Rue / Hetres',46.56830378,-72.73472611
+54,'','43e Rue / Bonaventure',46.56899383,-72.73569781
+55,'','43e Rue / Ste-Marthe',46.57109869,-72.73854132
+56,'','Ste-Marthe / 45e Rue',46.57210957,-72.73707868
+57,'','Ste-Marthe / 49e Rue',46.57326439,-72.73529293
 58,'','49e Rue (Face A Av Albert-Tessier)',46.57272768,-72.73396645
-59,'','49e Rue / Boul Des Hetres',46.57058919,-72.73093834
-60,'','Boul Des Hetres / 51e Rue',46.5711279,-72.72936793
-61,'','Boul Des Hetres / 53e Rue',46.57190876,-72.72816745
-62,'','Boul Des Hetres / 57e Rue (Face Lave-Auto)',46.57327205,-72.72608615
-63,'','Boul Des Hetres / 59e Rue',46.57429862,-72.72451564
-64,'','Boul Des Hetres / Boul Hubert-Biermans (Couche-Tard)',46.57571687,-72.72234042
-65,'','Boul Des Hetres / 69e Rue',46.57868858,-72.71942197
-66,'','Boul Des Hetres (Face A 74e Rue)',46.58137455,-72.71755387
-67,'','Boul Des Hetres / 79e Rue',46.58378428,-72.71589431
+59,'','49e Rue / Hetres',46.57058919,-72.73093834
+60,'','Hetres / 51e Rue',46.5711279,-72.72936793
+61,'','Hetres / 53e Rue',46.57190876,-72.72816745
+62,'','Hetres / 57e Rue (Face Lave-Auto)',46.57327205,-72.72608615
+63,'','Hetres / 59e Rue',46.57429862,-72.72451564
+64,'','Hetres / Hubert-Biermans (Couche-Tard)',46.57571687,-72.72234042
+65,'','Hetres / 69e Rue',46.57868858,-72.71942197
+66,'','Hetres (Face A 74e Rue)',46.58137455,-72.71755387
+67,'','Hetres / 79e Rue',46.58378428,-72.71589431
 68,'','Pres Du 8172 Boul Des Hetres',46.58541614,-72.71475872
-69,'','Boul Des Hetres / 84e Rue',46.58650523,-72.71400816
-70,'','Boul Des Hetres / 86e Rue',46.58792141,-72.71292014
-71,'','Boul Des Hetres / 89e Rue',46.58912911,-72.71192347
-72,'','Boul Des Hetres / 92e Rue',46.59062511,-72.71068279
+69,'','Hetres / 84e Rue',46.58650523,-72.71400816
+70,'','Hetres / 86e Rue',46.58792141,-72.71292014
+71,'','Hetres / 89e Rue',46.58912911,-72.71192347
+72,'','Hetres / 92e Rue',46.59062511,-72.71068279
 73,'','9474 Boul Des Hetres (Face A 95e Rue)',46.59246435,-72.7091604
-74,'','Boul Des Hetres / 98e Rue',46.59618152,-72.70933255
+74,'','Hetres / 98e Rue',46.59618152,-72.70933255
 75,'','10200 Boul Des Hetres',46.59758823,-72.70976201
-76,'','Boul Des Hetres / 28e Rue',46.59940997,-72.71030081
-77,'','Boul Des Hetres (Complexe Marchand)',46.60129832,-72.70947208
+76,'','Hetres / 28e Rue',46.59940997,-72.71030081
+77,'','Hetres (Complexe Marchand)',46.60129832,-72.70947208
 78,'','5e Av / 25e Rue',46.60249293,-72.70829376
 79,'','1791 5e Av (Entre 25e & 17e Rue)',46.60379539,-72.70660758
 80,'','5e Av / 17e Rue',46.60470462,-72.70523153
@@ -90,68 +90,68 @@
 89,'','5e Av / 2e Rue',46.61728235,-72.6861232
 90,'','5e Av / 1ere Rue',46.6181767,-72.68477727
 91,'','5e Av / 3e Av',46.6181698,-72.68362132
-92,'','Av Chahoon (Face Maison Francis-Brisson)',46.61974449,-72.6817691
-93,'','Av De St-Georges / Chemin De La Centrale',46.61931888,-72.6711054
-94,'','Av De St-Georges (Face 204e Av)',46.61937381,-72.66642403
-95,'','Av De St-Georges / Chemin Des Dubois',46.61930131,-72.66451093
-96,'','Av De St-Georges / 203e Rue',46.61929869,-72.66182653
-97,'','Av De St-Georges (Entre 208e & 209e Rue)',46.62121493,-72.65683552
-98,'','Av De St-Georges / 212e Rue',46.62308191,-72.65433633
-99,'','214e Rue / Av De St-Georges',46.62472276,-72.65290695
+92,'','Chahoon (Face Maison Francis-Brisson)',46.61974449,-72.6817691
+93,'','St-Georges / Chemin De La Centrale',46.61931888,-72.6711054
+94,'','St-Georges (Face 204e Av)',46.61937381,-72.66642403
+95,'','St-Georges / Chemin Des Dubois',46.61930131,-72.66451093
+96,'','St-Georges / 203e Rue',46.61929869,-72.66182653
+97,'','St-Georges (Entre 208e & 209e Rue)',46.62121493,-72.65683552
+98,'','St-Georges / 212e Rue',46.62308191,-72.65433633
+99,'','214e Rue / St-Georges',46.62472276,-72.65290695
 100,'','214e Rue / 206e Av',46.62634383,-72.65551024
 101,'','471 206e Av / 212e Rue',46.62523931,-72.65728557
 102,'','206e Av / 209e Rue (Pres Caisse Populaire)',46.6238391,-72.65917882
 103,'','206e Av / 207e Rue',46.622623,-72.66082968
 104,'','206e Av / 205e Rue',46.62170274,-72.66206588
 105,'','203e Rue / 206e Av',46.62047687,-72.66372174
-106,'','204e Av / Av De St-Georges (Depanneur NORDEC)',46.62149776,-72.66543831
-107,'','Av De St-Georges (Face Chemin De La Centrale)',46.61952855,-72.67143689
-108,'','Av De Grand-Mere / Chemin Riverside',46.62065446,-72.68158568
-109,'','Av De Grand-Mere / 2e Rue',46.61806577,-72.68716825
-110,'','Av De Grand-Mere / 3e Rue',46.61738508,-72.68815225
-111,'','Av De Grand-Mere / 4e Rue',46.61645323,-72.68954446
-112,'','Av De Grand-Mere (Face A 5e Rue)',46.61565948,-72.69073795
-113,'','Av De Grand-Mere / 7e Rue',46.61422384,-72.69295642
-114,'','Av De Grand-Mere / 8e Rue',46.61299711,-72.69477869
-115,'','Av De Grand-Mere / 10e Rue',46.61110019,-72.69755482
-116,'','Av De Grand-Mere / 12e Rue',46.60976898,-72.6995521
-117,'','Av De Grand-Mere / 14e Rue',46.60847516,-72.70149506
-118,'','Av De Grand-Mere / 15e Rue',46.60733821,-72.70314847
-119,'','Av De Grand-Mere (Face A 17e Rue)',46.60554237,-72.70575424
-120,'','Av De Grand-Mere / 25e Rue',46.60358455,-72.70858058
-122,'','Boul Des Hetres (Face A 28e Rue)',46.59939596,-72.71054692
+106,'','204e Av / St-Georges (Depanneur NORDEC)',46.62149776,-72.66543831
+107,'','St-Georges (Face Chemin De La Centrale)',46.61952855,-72.67143689
+108,'','Grand-Mere / Chemin Riverside',46.62065446,-72.68158568
+109,'','Grand-Mere / 2e Rue',46.61806577,-72.68716825
+110,'','Grand-Mere / 3e Rue',46.61738508,-72.68815225
+111,'','Grand-Mere / 4e Rue',46.61645323,-72.68954446
+112,'','Grand-Mere (Face A 5e Rue)',46.61565948,-72.69073795
+113,'','Grand-Mere / 7e Rue',46.61422384,-72.69295642
+114,'','Grand-Mere / 8e Rue',46.61299711,-72.69477869
+115,'','Grand-Mere / 10e Rue',46.61110019,-72.69755482
+116,'','Grand-Mere / 12e Rue',46.60976898,-72.6995521
+117,'','Grand-Mere / 14e Rue',46.60847516,-72.70149506
+118,'','Grand-Mere / 15e Rue',46.60733821,-72.70314847
+119,'','Grand-Mere (Face A 17e Rue)',46.60554237,-72.70575424
+120,'','Grand-Mere / 25e Rue',46.60358455,-72.70858058
+122,'','Hetres (Face A 28e Rue)',46.59939596,-72.71054692
 123,'','9823 Boul Des Hetres (Face A 98e Rue)',46.59594063,-72.7095699
-124,'','Boul Des Hetres / 95e Rue',46.59277635,-72.70927897
+124,'','Hetres / 95e Rue',46.59277635,-72.70927897
 125,'','9153 Boul Des Hetres (Face A 92e Rue)',46.59073288,-72.71095436
-126,'','Boul Des Hetres (Face A 89e Rue)',46.58952573,-72.71191765
-127,'','Boul Des Hetres (Face A 84e Rue)',46.58666846,-72.71416633
+126,'','Hetres (Face A 89e Rue)',46.58952573,-72.71191765
+127,'','Hetres (Face A 84e Rue)',46.58666846,-72.71416633
 128,'','8115 Boul Des Hetres',46.58548875,-72.71508405
-129,'','Boul Des Hetres / 74e Rue',46.58164578,-72.71768524
-130,'','Boul Des Hetres / Av Beaumont',46.57894838,-72.71954928
-131,'','Boul Des Hetres / Boul Hubert-Biermans',46.57595636,-72.72235424
-132,'','Boul Des Hetres / 59e Rue',46.5745077,-72.72457731
-133,'','Boul Des Hetres (Seminaire Ste-Marie)',46.57334881,-72.72633617
-134,'','Boul Des Hetres (Face A 53e Rue)',46.57204475,-72.72834486
-135,'','Boul Des Hetres (Face A 51e Rue)',46.57125629,-72.72956184
-136,'','Boul Des Hetres / 49e Rue',46.5705912,-72.73064471
+129,'','Hetres / 74e Rue',46.58164578,-72.71768524
+130,'','Hetres / Beaumont',46.57894838,-72.71954928
+131,'','Hetres / Hubert-Biermans',46.57595636,-72.72235424
+132,'','Hetres / 59e Rue',46.5745077,-72.72457731
+133,'','Hetres (Seminaire Ste-Marie)',46.57334881,-72.72633617
+134,'','Hetres (Face A 53e Rue)',46.57204475,-72.72834486
+135,'','Hetres (Face A 51e Rue)',46.57125629,-72.72956184
+136,'','Hetres / 49e Rue',46.5705912,-72.73064471
 137,'','49e Rue (Entre Av Ste-Marthe & Av Albert-Tessier)',46.57328838,-72.73447158
-138,'','Av Ste-Marthe / 45e Rue',46.57239109,-72.73697536
-139,'','Av Ste-Marthe / 43e Rue',46.57129572,-72.73867718
-140,'','43e Rue / Av Bonaventure',46.56904927,-72.73607698
-141,'','43e Rue / Boul Des Hetres',46.56803124,-72.73468471
+138,'','Ste-Marthe / 45e Rue',46.57239109,-72.73697536
+139,'','Ste-Marthe / 43e Rue',46.57129572,-72.73867718
+140,'','43e Rue / Bonaventure',46.56904927,-72.73607698
+141,'','43e Rue / Hetres',46.56803124,-72.73468471
 142,'','Pres Du 1723 41e Rue',46.56701365,-72.73502498
 143,'','41e Rue (Avant Boul Royal)',46.56578776,-72.73332869
-144,'','Boul Royal / 38e Rue',46.56419159,-72.73462123
-145,'','Boul Royal / Boul St-Sacrement',46.56047802,-72.74024571
+144,'','Royal / 38e Rue',46.56419159,-72.73462123
+145,'','Royal / St-Sacrement',46.56047802,-72.74024571
 146,'','1333 Rue Gigaire (Pres Boul Royal)',46.55940871,-72.74109734
-147,'','Rue Gigaire / Av Papineau',46.55873101,-72.7401862
-148,'','Rue Gigaire / Av Champlain',46.55729106,-72.73823883
-149,'','Av Champlain / Rue Frigon',46.55680774,-72.73894921
+147,'','Gigaire / Papineau',46.55873101,-72.7401862
+148,'','Gigaire / Champlain',46.55729106,-72.73823883
+149,'','Champlain / Frigon',46.55680774,-72.73894921
 150,'','2263 Av Champlain',46.55560457,-72.74111752
-151,'','Av Champlain / Rue Trudel',46.55309867,-72.74473242
+151,'','Champlain / Trudel',46.55309867,-72.74473242
 152,'','1667 Av Champlain',46.55190857,-72.74595614
-153,'','Av Champlain / Rue Summit',46.55023674,-72.74775928
-157,'','Av Melville (Cote Cite De L''Energie)',46.53558212,-72.75562639
+153,'','Champlain / Summit',46.55023674,-72.74775928
+157,'','Melville (Cote Cite De L''Energie)',46.53558212,-72.75562639
 158,'','Sortie Rue Du Marie-Louise',46.52673819,-72.75807121
 159,'','790 Rue Du Marie-Louise',46.52592139,-72.75882198
 160,'','105e Av / 109e Rue',46.52564531,-72.75349417
@@ -164,10 +164,10 @@
 167,'','119e Rue / 101e Av',46.52333223,-72.74390227
 168,'','CSSS (Urgence)',46.52502574,-72.74420329
 169,'','CSSS (Entree Principale)',46.52594284,-72.74431002
-170,'','119e Rue / Av Du Capitaine-Veilleux',46.52529282,-72.74098224
-171,'','Av Du Capitaine-Veilleux / Place Huard',46.52461171,-72.73986766
-172,'','Av Du Capitaine-Veilleux / 125e Rue',46.52309392,-72.73772845
-173,'','125e Rue / Av Loranger',46.52205515,-72.73870642
+170,'','119e Rue / Capitaine-Veilleux',46.52529282,-72.74098224
+171,'','Capitaine-Veilleux / Pl Huard',46.52461171,-72.73986766
+172,'','Capitaine-Veilleux / 125e Rue',46.52309392,-72.73772845
+173,'','125e Rue / Loranger',46.52205515,-72.73870642
 174,'','124e Rue / 101e Av',46.52137552,-72.73970762
 175,'','125e Rue / 103e Av',46.51995902,-72.74176536
 176,'','125e Rue / 105e Av',46.51913248,-72.7429837
@@ -178,62 +178,62 @@
 181,'','3640 105e Av',46.51216064,-72.73422116
 182,'','105e Av / 138e Rue',46.51084472,-72.73301516
 183,'','105e Av (Face A Rue Jos-Denoncourt)',46.50804735,-72.73205463
-184,'','Face A 3945 105e Av',46.5064745,-72.73152268
-185,'','4150 Boul De Shawinigan-Sud',46.50423136,-72.72980259
-186,'','Boul De Shawinigan-Sud (Face A Rue Alida-Desilets)',46.50296041,-72.72794682
-187,'','Boul De Shawinigan-Sud / Rang St-Michel',46.5012756,-72.72547666
-188,'','4420 Boul De Shawinigan-Sud',46.50013666,-72.72380224
-189,'','Boul De Shawinigan-Sud / Rue Valentine-Pintal',46.49853943,-72.72148122
-190,'','4580 Boul De Shawinigan-Sud',46.49750853,-72.71994135
-191,'','Face A 4605 Boul De Shawinigan-Sud',46.49634922,-72.71824042
-192,'','Garderie La Bottine Souriante Centre Fiscal',46.49382466,-72.71356982
-193,'','4e Rue De La Pointe / Av Tamarac',46.53984249,-72.75010978
+184,'','A 3945 105e Av',46.5064745,-72.73152268
+185,'','4150 Boul De Shawinigan-S',46.50423136,-72.72980259
+186,'','Shawinigan-S (Face A Rue Alida-Desilets)',46.50296041,-72.72794682
+187,'','Shawinigan-S / Rang St-Michel',46.5012756,-72.72547666
+188,'','4420 Boul De Shawinigan-S',46.50013666,-72.72380224
+189,'','Shawinigan-S / Valentine-Pintal',46.49853943,-72.72148122
+190,'','4580 Boul De Shawinigan-S',46.49750853,-72.71994135
+191,'','A 4605 Boul De Shawinigan-S',46.49634922,-72.71824042
+192,'','Garderie La Bottine Souriante Ctr Fiscal',46.49382466,-72.71356982
+193,'','4e Rue De La Pte / Tamarac',46.53984249,-72.75010978
 198,'','1279 Av Des Cedres',46.54737931,-72.74674534
-199,'','Av Des Cedres / 11e Rue De La Pointe',46.54479273,-72.74606488
-200,'','Av Des Cedres / 7e Rue De La Pointe',46.54226419,-72.74636085
-201,'','Av Des Cedres / 5e Rue De La Pointe',46.5409105,-72.74627089
-202,'','Av Des Cedres / 4e Rue De La Pointe',46.54004204,-72.74617733
-203,'','4e Rue De La Pointe / Av Mercier',46.5399422,-72.74813222
+199,'','Cedres / 11e Rue De La Pte',46.54479273,-72.74606488
+200,'','Cedres / 7e Rue De La Pte',46.54226419,-72.74636085
+201,'','Cedres / 5e Rue De La Pte',46.5409105,-72.74627089
+202,'','Cedres / 4e Rue De La Pte',46.54004204,-72.74617733
+203,'','4e Rue De La Pte / Mercier',46.5399422,-72.74813222
 204,'','4023 Boul Des Hetres',46.56721908,-72.73585517
-205,'','Boul Des Hetres / 36e Rue',46.56556537,-72.73842878
-206,'','Boul Des Hetres / Rue Bellevue',46.56381432,-72.74103742
-207,'','Rue Bellevue / Av La Salle',46.56444006,-72.74216199
-208,'','Rue Bellevue / Av Beaudry-Leman',46.5656575,-72.74381856
-209,'','Av Masson (Pres De Rue Bellevue)',46.56942114,-72.74981697
+205,'','Hetres / 36e Rue',46.56556537,-72.73842878
+206,'','Hetres / Bellevue',46.56381432,-72.74103742
+207,'','Bellevue / Salle',46.56444006,-72.74216199
+208,'','Bellevue / Beaudry-Leman',46.5656575,-72.74381856
+209,'','Masson (Pres De Rue Bellevue)',46.56942114,-72.74981697
 210,'','CEGEP',46.56353032,-72.75226155
-211,'','Av Du College / Rue Lavergne',46.56674783,-72.75039445
-212,'','Rue Lavergne / Av Beaudry-Leman',46.56411909,-72.74682003
-213,'','Rue Lavergne / Av La Salle',46.56297652,-72.74521374
-214,'','Rue Lavergne / Boul Des Hetres',46.56187693,-72.74372205
-215,'','Rue Gigaire / Av St-Alexis',46.5611474,-72.74345478
-216,'','Rue Gigaire / Boul Royal',46.55969048,-72.74148317
-217,'','Boul Royal / Rue Frigon',46.55901801,-72.74246516
-218,'','Boul Royal / Rue St-Joseph',46.55773042,-72.74445074
-219,'','Boul Royal / Rue St-Paul',46.55690636,-72.74563982
-220,'','Boul Royal / Rue Cartier',46.55608161,-72.74691356
+211,'','College / Lavergne',46.56674783,-72.75039445
+212,'','Lavergne / Beaudry-Leman',46.56411909,-72.74682003
+213,'','Lavergne / Salle',46.56297652,-72.74521374
+214,'','Lavergne / Hetres',46.56187693,-72.74372205
+215,'','Gigaire / St-Alexis',46.5611474,-72.74345478
+216,'','Gigaire / Royal',46.55969048,-72.74148317
+217,'','Royal / Frigon',46.55901801,-72.74246516
+218,'','Royal / St-Joseph',46.55773042,-72.74445074
+219,'','Royal / St-Paul',46.55690636,-72.74563982
+220,'','Royal / Cartier',46.55608161,-72.74691356
 221,'','1265 Rue Trudel (Ancien CLSC)',46.55462831,-72.74740064
-222,'','Rue Trudel (Avant Av Georges)',46.5537955,-72.74619181
-223,'','Rue Trudel / Av Champlain',46.55307487,-72.74521029
-224,'','Rue Trudel (Pres Av St-Marc)',46.55268963,-72.74436879
-225,'','Rue Trudel / Av Georges',46.55353072,-72.74549022
-226,'','Rue Trudel / Boul Royal',46.55517042,-72.74777747
-227,'','Boul Royal / Rue Cartier',46.55579484,-72.74694637
-228,'','Boul Royal / Rue St-Paul',46.55661903,-72.74566605
-229,'','Boul Royal / Rue St-Joseph',46.55740319,-72.74446333
-230,'','Rue Dufresne / Boul Royal',46.55894261,-72.74322033
-231,'','Rue Dufresne / Av Coutu',46.5596169,-72.74413379
-232,'','Boul Royal (Face Rue St-Jacques)',46.56066904,-72.74494034
-233,'','Rue Lavergne (Pres Boul Des Hetres)',46.56214042,-72.7437867
-234,'','Rue Lavergne / Av La Salle',46.56293001,-72.74484995
-235,'','Rue Lavergne / Av Beaudry-Leman',46.56406487,-72.7463864
-236,'','Rue Lavergne / Av Du College',46.56685168,-72.75015731
-237,'','Av Masson / Rue Bellevue',46.5694862,-72.74939991
-238,'','Rue Bellevue / Av Beaudry-Leman',46.56575102,-72.7443002
-239,'','Rue Bellevue / Av La Salle',46.56456593,-72.74265825
-240,'','Rue Bellevue / Boul Des Hetres',46.56360698,-72.74134931
-241,'','Face Rue Aldred (Sur Boul Des Hetres)',46.56387252,-72.74064092
+222,'','Trudel (Avant Av Georges)',46.5537955,-72.74619181
+223,'','Trudel / Champlain',46.55307487,-72.74521029
+224,'','Trudel (Pres Av St-Marc)',46.55268963,-72.74436879
+225,'','Trudel / Georges',46.55353072,-72.74549022
+226,'','Trudel / Royal',46.55517042,-72.74777747
+227,'','Royal / Cartier',46.55579484,-72.74694637
+228,'','Royal / St-Paul',46.55661903,-72.74566605
+229,'','Royal / St-Joseph',46.55740319,-72.74446333
+230,'','Dufresne / Royal',46.55894261,-72.74322033
+231,'','Dufresne / Coutu',46.5596169,-72.74413379
+232,'','Royal (Face Rue St-Jacques)',46.56066904,-72.74494034
+233,'','Lavergne (Pres Boul Des Hetres)',46.56214042,-72.7437867
+234,'','Lavergne / Salle',46.56293001,-72.74484995
+235,'','Lavergne / Beaudry-Leman',46.56406487,-72.7463864
+236,'','Lavergne / College',46.56685168,-72.75015731
+237,'','Masson / Bellevue',46.5694862,-72.74939991
+238,'','Bellevue / Beaudry-Leman',46.56575102,-72.7443002
+239,'','Bellevue / Salle',46.56456593,-72.74265825
+240,'','Bellevue / Hetres',46.56360698,-72.74134931
+241,'','Aldred (Sur Boul Des Hetres)',46.56387252,-72.74064092
 242,'','3562 Boul Des Hetres',46.5654173,-72.73830698
-243,'','Boul Des Hetres (Pres 41e Rue)',46.56702621,-72.73579844
+243,'','Hetres (Pres 41e Rue)',46.56702621,-72.73579844
 244,'','110e Rue / 106e Av',46.52453802,-72.75356705
 245,'','110e Rue / 110e Av',46.52308273,-72.75569709
 246,'','109e Rue / 111e Av',46.52231384,-72.75628818
@@ -244,32 +244,32 @@
 251,'','114e Av (Entre 122e & 123e Rue)',46.51568028,-72.75086023
 252,'','125e Rue / 114e Av',46.51472969,-72.74950025
 253,'','1230 125e Rue',46.51561606,-72.74791806
-254,'','128e Rue / Boul De Shawinigan-Sud',46.51400378,-72.74525572
-255,'','Boul De Shawinigan-Sud / Rue Gerard-Monet',46.50570404,-72.73189485
-256,'','Rue St-Paul / Av Cloutier',46.55568283,-72.74434716
-257,'','Rue St-Paul / Av Georges',46.55454748,-72.74284146
-258,'','Rue St-Paul / Av St-Marc',46.55402792,-72.74215251
-259,'','Entree Centre Fiscal',46.49532532,-72.71352559
+254,'','128e Rue / Shawinigan-S',46.51400378,-72.74525572
+255,'','Shawinigan-S / Gerard-Monet',46.50570404,-72.73189485
+256,'','St-Paul / Cloutier',46.55568283,-72.74434716
+257,'','St-Paul / Georges',46.55454748,-72.74284146
+258,'','St-Paul / St-Marc',46.55402792,-72.74215251
+259,'','Entree Ctr Fiscal',46.49532532,-72.71352559
 260,'','Plaza',46.56289572,-72.73833391
-261,'','4655 Boul De Shawinigan-Sud (Club Piscine)',46.49576903,-72.71704133
-262,'','204e Av / Av De St-Georges (Depanneur NORDEC)',46.62149776,-72.66543831
-263,'','Av De Grand-Mere (Face A 26e Rue)',46.60252912,-72.70964825
+261,'','4655 Boul De Shawinigan-S (Club Piscine)',46.49576903,-72.71704133
+262,'','204e Av / St-Georges (Depanneur NORDEC)',46.62149776,-72.66543831
+263,'','Grand-Mere (Face A 26e Rue)',46.60252912,-72.70964825
 266,'','Walmart',46.554105,-72.74870153
 267,'','Marche Public',46.55432178,-72.74316597
-268,'','Av Des Cedres / Av De La Transmission',46.5473738,-72.74636327
-269,'','109e Rue / Rue Antoinette-J-Goulet',46.52029687,-72.75661049
-270,'','Boul Des Hetres (Face A 79e Rue)',46.58396043,-72.71611078
-271,'','Av Du College / Rue Lavergne',46.56686316,-72.75055852
-272,'','Av Des Cedres / 9e Rue De La Pointe',46.54348827,-72.74649618
+268,'','Cedres / Transmission',46.5473738,-72.74636327
+269,'','109e Rue / Antoinette-J-Goulet',46.52029687,-72.75661049
+270,'','Hetres (Face A 79e Rue)',46.58396043,-72.71611078
+271,'','College / Lavergne',46.56686316,-72.75055852
+272,'','Cedres / 9e Rue De La Pte',46.54348827,-72.74649618
 273,'','3850 105e Av',46.50934308,-72.73259473
 274,'','110e Rue / 108e Av',46.52374043,-72.75476956
-275,'','Boul De Shawinigan-Sud (Devant Societe Laurentides)',46.4952133,-72.71664094
-276,'','Garderie La Bottine Souriante Centre Fiscal',46.49393997,-72.71372326
-277,'','Face A Roma - Boul De Shawinigan-Sud',46.49769201,-72.71969498
-278,'','Amphitheatre Municipal (Entree/Sortie Du Stat)',46.54660642,-72.74576088
+275,'','Shawinigan-S (Societe Laurentides)',46.4952133,-72.71664094
+276,'','Garderie La Bottine Souriante Ctr Fiscal',46.49393997,-72.71372326
+277,'','A Roma - Boul De Shawinigan-S',46.49769201,-72.71969498
+278,'','Amphitheatre Municipal (Entree / Sortie Du Stat)',46.54660642,-72.74576088
 279,'','Walmart',46.55416918,-72.7487348
 280,'','CEGEP',46.56353032,-72.75226155
-281,'','Boul Des Hetres / 38e Rue',46.56617139,-72.73710668
+281,'','Hetres / 38e Rue',46.56617139,-72.73710668
 282,'','5e Av / 8e Rue',46.61200782,-72.6939899
-283,'','Rue St-Paul / Av Georges',46.55505968,-72.74327231
-284,'','Rue St-Paul / Boul Royal',46.55673076,-72.74551344
+283,'','St-Paul / Georges',46.55505968,-72.74327231
+284,'','St-Paul / Royal',46.55673076,-72.74551344
