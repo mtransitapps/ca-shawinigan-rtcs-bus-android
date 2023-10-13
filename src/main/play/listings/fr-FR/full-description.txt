@@ -11,7 +11,7 @@ Cette application a seulement une icône temporaire : télécharger l'app MonTra
 Vous pouvez installer cette application sur la carte SD mais ce n'est pas recommandé.
 
 Ces horaires sont générées à partir du fichier GTFS fourni par la Régie de Transport en Commun de Shawinigan (RTCS) et la Ville de Shawinigan.
-http://donnees.shawinigan.opendata.arcgis.com/
+https://donnees-shawinigan.opendata.arcgis.com/
 
 Cette application est gratuite et open-source : 
 https://github.com/mtransitapps/ca-shawinigan-rtcs-bus-android
