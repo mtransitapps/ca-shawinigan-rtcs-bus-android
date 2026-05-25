@@ -14,8 +14,6 @@ import java.util.List;
 import java.util.Locale;
 import java.util.regex.Pattern;
 
-// https://donnees-shawinigan.opendata.arcgis.com/
-// OLD: https://jmap.shawinigan.ca/doc/photos/google_transit.zip
 public class ShawiniganRTCSBusAgencyTools extends DefaultAgencyTools {
 
 	public static void main(@NotNull String[] args) {
